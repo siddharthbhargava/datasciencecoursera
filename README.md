@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repository for the Jhon Hopkins course on Data Science
+Repository for the Johns Hopkins course on Data Science
